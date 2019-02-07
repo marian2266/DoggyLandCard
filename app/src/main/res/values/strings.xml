@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DoggyLand</string>
+        <string name="text1">DoggyLand</string>
+        <string name="text2">Shelter: Pescarilor Street 36</string>
+        <string name="text3">Techirghiol/Constanta ROMANIA</string>
+        <string name="text4">+40 728 651 600</string>
+        <string name="text5">www.doggylandfamily.ro</string>
+        <string name="text6">“Shelter dogs aren’t broken, they’ve simply experienced more life than other dogs. If they were human, we would call them wise. They would be the ones with tales to tell and stories to write, the ones dealt a bad hand who responded with courage. Don’t pity a shelter dog. Adopt one. And be proud to have their greatness by your side.”</string>
+
+
+</resources>
